@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/ui">
+        <file>Resources/Label_Bar.png</file>
+        <file>Resources/Test_Bak.png</file>
+        <file>Resources/Background.jpg</file>
+        <file>Resources/Splash.png</file>
+        <file>Resources/Plane.png</file>
+    </qresource>
+</RCC>
